@@ -100,7 +100,6 @@ function FormComponent (props){
             Submit
           </button>
           <br />
-          <br />
           <hr />
           <h2>
             Entered information:
