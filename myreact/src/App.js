@@ -2,10 +2,9 @@ import React from 'react'
 import Form from "./FormContainer"
 import './App.css';
 
-function App(){
-  return(
+function App() {
+  return (
     <Form />
-   
   )
 }
 
